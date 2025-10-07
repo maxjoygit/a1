@@ -1,0 +1,51 @@
+[18-Mar-2025 08:30:40 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[21-Mar-2025 12:56:15 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[21-Mar-2025 12:56:15 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[21-Mar-2025 12:56:15 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[21-Mar-2025 12:56:15 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[21-Mar-2025 12:56:15 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[24-Mar-2025 13:42:58 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[24-Mar-2025 13:42:58 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[24-Mar-2025 13:42:58 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[24-Mar-2025 13:42:58 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[24-Mar-2025 13:42:59 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[17-Jul-2025 11:11:40 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[17-Jul-2025 11:11:40 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[17-Jul-2025 11:11:40 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[17-Jul-2025 11:11:40 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[17-Jul-2025 11:11:40 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[18-Jul-2025 08:29:59 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[18-Jul-2025 08:29:59 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[18-Jul-2025 08:29:59 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[18-Jul-2025 08:29:59 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[18-Jul-2025 08:30:02 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[18-Jul-2025 08:30:17 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[18-Jul-2025 08:30:17 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[18-Jul-2025 08:30:17 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[18-Jul-2025 08:30:17 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[18-Jul-2025 08:30:17 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[18-Jul-2025 08:41:11 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[18-Jul-2025 08:41:11 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[18-Jul-2025 08:41:11 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[18-Jul-2025 08:41:11 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[18-Jul-2025 08:41:11 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[18-Jul-2025 09:00:21 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[18-Jul-2025 09:00:21 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[18-Jul-2025 09:00:21 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[18-Jul-2025 09:00:21 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[18-Jul-2025 09:00:21 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[19-Jul-2025 07:36:21 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[19-Jul-2025 07:36:21 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[19-Jul-2025 07:36:21 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[19-Jul-2025 07:36:21 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[19-Jul-2025 07:36:24 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[19-Jul-2025 07:36:24 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[19-Jul-2025 07:36:24 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[19-Jul-2025 07:36:24 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[19-Jul-2025 07:36:28 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[19-Jul-2025 07:36:28 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479
+[19-Jul-2025 07:36:34 Europe/Berlin] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\config.php on line 17
+[19-Jul-2025 07:36:34 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 18
+[19-Jul-2025 07:36:34 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 19
+[19-Jul-2025 07:36:34 Europe/Berlin] PHP Deprecated:  define(): Declaration of case-insensitive constants is deprecated in C:\xampp\htdocs\aniruddh.biz.st\public\libs\ez_sql_core.php on line 20
+[19-Jul-2025 07:36:34 Europe/Berlin] PHP Warning:  Table 'plikli.plikli_config' doesn't exist in C:\xampp\htdocs\aniruddh.biz.st\public\libs\db.php on line 479

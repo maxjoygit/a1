@@ -1,0 +1,1 @@
+{config_load file=anonymous_story_plikli_lang_conf}
