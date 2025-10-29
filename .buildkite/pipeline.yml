@@ -1,8 +1,3 @@
-- trigger: "app-deploy"
-  label: ":rocket: Deploy"
-  branches: "main"
-  async: true
-  build:
-    message: "${BUILDKITE_MESSAGE}"
-    commit: "${BUILDKITE_COMMIT}"
-    branch: "${BUILDKITE_BRANCH}"
+steps:
+  - label: ":hammer: Example Script"
+    command: echo "ddgdgdghgithub"
