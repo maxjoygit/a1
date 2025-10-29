@@ -1,3 +1,6 @@
 steps:
   - label: ":hammer: Example Script"
-    command: echo "ddgdgdghgixvcxvthub"
+    command: echo "fsdfsf"
+
+  - label: ":hammer: Example Script"
+    command: pwd
