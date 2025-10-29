@@ -3,4 +3,4 @@ steps:
     command: echo "fsdfsf"
 
   - label: ":hammer: Example Script"
-    command: pwd
+    command: pwdgdf
