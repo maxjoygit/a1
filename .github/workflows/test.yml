@@ -1,0 +1,15 @@
+name: Self Hosted Runner Test
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: naranjanl
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Show system info
+        run: uname -a
