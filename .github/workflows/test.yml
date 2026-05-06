@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    runs-on: naranjanl
+    runs-on: [self-hosted, naranjanl]
 
     steps:
       - name: Checkout code
