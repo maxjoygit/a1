@@ -7,7 +7,6 @@ jobs:
   build:
     runs-on: naranjanl
 
-    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
