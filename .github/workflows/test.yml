@@ -14,4 +14,4 @@ jobs:
       - name: Show system info
         run: uname -a
       - name: Show system info
-        run: date
+        run: ping6 2001:bc8:1d90:1ab:dc00:ff:fe09:ddd7
